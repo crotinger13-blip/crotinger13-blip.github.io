@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.crotinger13_blip.twa",
+      "sha256_cert_fingerprints": [
+        "82:04:17:A0:20:BA:8E:14:34:2B:94:81:AD:79:40:CE:09:BB:47:C4:A7:D7:2F:58:23:93:F3:10:82:E9:F3:5A"
+      ]
+    }
+  }
+]
