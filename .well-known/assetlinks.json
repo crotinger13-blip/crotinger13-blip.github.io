@@ -10,5 +10,17 @@
         "82:04:17:A0:20:BA:8E:14:34:2B:94:81:AD:79:40:CE:09:BB:47:C4:A7:D7:2F:58:23:93:F3:10:82:E9:F3:5A"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.crotinger13_blip.kingme",
+      "sha256_cert_fingerprints": [
+        "D7:DD:96:4A:FB:C0:87:90:41:82:AB:69:9A:6D:56:68:A1:FB:DF:92:62:A6:6A:AA:7B:D5:3E:73:1B:C2:D3:A2"
+      ]
+    }
   }
 ]
